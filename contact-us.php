@@ -47,7 +47,7 @@ include_once 'header.php';
                             </div>
                             <div>
                                 <h5 class="mb-1">เบอร์โทรศัพท์ #2</h5>
-                                <p>081-871-6303</p>
+                                <p>065-169-6969</p>
                             </div>
                         </div>
                         <div class="d-flex flex-row">
@@ -56,7 +56,7 @@ include_once 'header.php';
                             </div>
                             <div>
                                 <h5 class="mb-1">เบอร์โทรศัพท์ #3</h5>
-                                <p>065-169-6969</p>
+                                <p>081-871-6303</p>
                             </div>
                         </div>
                         <div class="d-flex flex-row">

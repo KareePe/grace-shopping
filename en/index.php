@@ -44,6 +44,7 @@ include_once 'header.php';
                                         <!-- /.post-header -->
                                     </div>
                                 </figure>
+
                             </div>
                             <!--/.swiper-slide -->
                             <div class="swiper-slide">
@@ -147,6 +148,15 @@ include_once 'header.php';
                             <!-- /.post-header -->
                         </div>
                     </figure>
+                    <figure class="rounded">
+                        <img src="../images/good.jpg" style="width: 100%;" alt="" />
+                        <div class="project-details d-flex justify-content-center flex-column pt-2">
+                            <div class="post-header">
+                                <h2 class="post-title h3"><a href="javascrip:void(0)" class="link-dark">Benefits of ready-made bird's nest drink</a></h2>
+                            </div>
+                            <!-- /.post-header -->
+                        </div>
+                    </figure>
                 </div>
                 <div class="col-lg-6 col-md-12">
                     <figure class="rounded">
@@ -207,7 +217,7 @@ include_once 'header.php';
                             <div>
                                 <h5 class="mb-1">Address</h5>
                                 <address>
-                                369/4 Rob Mueang Road(Kao Noi),Mak Khaeng Subdistrict, Mueang District,Udonthani 41000
+                                    369/4 Rob Mueang Road(Kao Noi),Mak Khaeng Subdistrict, Mueang District,Udonthani 41000
                                 </address>
                                 <address>12/229 Moo7, Latsawai Subdistrict, Lumlukka District, Pathumthani 12150 </address>
                             </div>
@@ -227,7 +237,7 @@ include_once 'header.php';
                             </div>
                             <div>
                                 <h5 class="mb-1">Phone #2</h5>
-                                <p>081-871-6303</p>
+                                <p>065-169-6969</p>
                             </div>
                         </div>
                         <div class="d-flex flex-row">
@@ -236,7 +246,7 @@ include_once 'header.php';
                             </div>
                             <div>
                                 <h5 class="mb-1">Phone #3</h5>
-                                <p>065-169-6969</p>
+                                <p>081-871-6303</p>
                             </div>
                         </div>
                         <div class="d-flex flex-row">

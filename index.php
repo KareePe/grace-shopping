@@ -47,6 +47,18 @@ include_once 'header.php';
                             </div>
                             <!--/.swiper-slide -->
                             <div class="swiper-slide">
+                                <figure class="rounded">
+                                    <img src="./images/drink-1.jpg" alt="" />
+                                    <div class="project-details d-flex justify-content-center flex-column pt-2">
+                                        <div class="post-header">
+                                            <h2 class="post-title h3"><a href="javascrip:void(0)" class="link-dark">เครื่องคั่วกาแฟ</a></h2>
+                                        </div>
+                                        <!-- /.post-header -->
+                                    </div>
+                                </figure>
+                            </div>
+                            <!--/.swiper-slide -->
+                            <div class="swiper-slide">
                                 <figure class="rounded"><img src="./assets/img/drink-7.jpg" alt="" />
                                     <div class="project-details d-flex justify-content-center flex-column pt-2">
                                         <div class="post-header">
@@ -128,11 +140,23 @@ include_once 'header.php';
                 <div class="col-lg-6 col-md-12">
                     <figure class="rounded">
                         <img src="./images/friut.jpg" style="width: 100%;" alt="" />
+                        <div class="project-details d-flex justify-content-center flex-column pt-2">
+                            <div class="post-header">
+                                <h2 class="post-title h3"><a href="javascrip:void(0)" class="link-dark">เครื่องดื่มผลไม้</a></h2>
+                            </div>
+                            <!-- /.post-header -->
+                        </div>
                     </figure>
                 </div>
                 <div class="col-lg-6 col-md-12">
                     <figure class="rounded">
                         <img src="./images/coffee-cup.jpg" style="width: 100%;" alt="" />
+                        <div class="project-details d-flex justify-content-center flex-column pt-2">
+                            <div class="post-header">
+                                <h2 class="post-title h3"><a href="javascrip:void(0)" class="link-dark">กาแฟลดความอ้วน</a></h2>
+                            </div>
+                            <!-- /.post-header -->
+                        </div>
                     </figure>
                 </div>
             </div>
@@ -193,8 +217,26 @@ include_once 'header.php';
                                 <div class="icon text-sky fs-28 me-4 mt-n1"> <i class="uil uil-phone-volume"></i> </div>
                             </div>
                             <div>
-                                <h5 class="mb-1">เบอร์โทรศัพท์</h5>
+                                <h5 class="mb-1">เบอร์โทรศัพท์ #1</h5>
+                                <p>02-966-0007</p>
+                            </div>
+                        </div>
+                        <div class="d-flex flex-row">
+                            <div>
+                                <div class="icon text-sky fs-28 me-4 mt-n1"> <i class="uil uil-tablet"></i> </div>
+                            </div>
+                            <div>
+                                <h5 class="mb-1">เบอร์โทรศัพท์ #2</h5>
                                 <p>081-871-6303</p>
+                            </div>
+                        </div>
+                        <div class="d-flex flex-row">
+                            <div>
+                                <div class="icon text-sky fs-28 me-4 mt-n1"> <i class="uil uil-tablet"></i> </div>
+                            </div>
+                            <div>
+                                <h5 class="mb-1">เบอร์โทรศัพท์ #3</h5>
+                                <p>065-169-6969</p>
                             </div>
                         </div>
                         <div class="d-flex flex-row">

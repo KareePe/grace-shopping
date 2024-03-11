@@ -49872,3 +49872,18 @@ footer.bg-dark.angled.upper-start:before {
 .link-dark:hover, .text-reset a:hover, a.text-reset:hover {
     color: #5eb9f0 !important;
 }
+
+.lang {
+    display: flex;
+    flex-wrap: nowrap;
+    gap: 10px;
+}
+
+.lang a:nth-child(1)::after {
+    content: '/';
+    margin-left: 10px;
+}
+
+.lang-current {
+    color: #5eb9f0;
+}

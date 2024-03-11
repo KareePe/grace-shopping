@@ -11,7 +11,7 @@ include_once 'header.php';
         ?>
 
         <section class="wrapper bg-light pt-10">
-        <div class="container py-14 py-md-16">
+            <div class="container py-14 py-md-16">
                 <div class="row gx-lg-8 gx-xl-12 gy-10 align-items-center">
                     <div class="col-lg-7">
                         <figure><img class="w-auto" src="../assets/img/illustrations/i5.png" srcset="../assets/img/illustrations/i5@2x.png 2x" alt="" /></figure>
@@ -27,7 +27,7 @@ include_once 'header.php';
                             <div>
                                 <h5 class="mb-1">Address</h5>
                                 <address>
-                                369/4 Rob Mueang Road(Kao Noi),Mak Khaeng Subdistrict, Mueang District,Udonthani 41000
+                                    369/4 Rob Mueang Road(Kao Noi),Mak Khaeng Subdistrict, Mueang District,Udonthani 41000
                                 </address>
                                 <address>12/229 Moo7, Latsawai Subdistrict, Lumlukka District, Pathumthani 12150 </address>
                             </div>
@@ -37,8 +37,26 @@ include_once 'header.php';
                                 <div class="icon text-sky fs-28 me-4 mt-n1"> <i class="uil uil-phone-volume"></i> </div>
                             </div>
                             <div>
-                                <h5 class="mb-1">Phone</h5>
+                                <h5 class="mb-1">Phone #1</h5>
+                                <p>02-966-0007</p>
+                            </div>
+                        </div>
+                        <div class="d-flex flex-row">
+                            <div>
+                                <div class="icon text-sky fs-28 me-4 mt-n1"> <i class="uil uil-tablet"></i> </div>
+                            </div>
+                            <div>
+                                <h5 class="mb-1">Phone #2</h5>
                                 <p>081-871-6303</p>
+                            </div>
+                        </div>
+                        <div class="d-flex flex-row">
+                            <div>
+                                <div class="icon text-sky fs-28 me-4 mt-n1"> <i class="uil uil-tablet"></i> </div>
+                            </div>
+                            <div>
+                                <h5 class="mb-1">Phone #3</h5>
+                                <p>065-169-6969</p>
                             </div>
                         </div>
                         <div class="d-flex flex-row">
@@ -64,6 +82,7 @@ include_once 'header.php';
                 <div class="card bg-soft-sky rounded-4 mt-2 mb-13 mb-md-17">
                     <div class="card-body p-md-10 py-xl-11 px-xl-15">
                         <figure class="rounded pb-10">
+                            <img src="../images/map-new.png" style="width: 100%;margin-bottom:25px;" alt="">
                             <img src="../images/map.png" style="width: 100%;" alt="">
                         </figure>
                         <div class="row gx-lg-8 gx-xl-8 gy-10 align-items-center">

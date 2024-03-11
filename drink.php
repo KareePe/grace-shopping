@@ -35,7 +35,7 @@ include_once 'header.php';
                                     <figure class="rounded"><img src="./assets/img/drink-4.jpg" alt="" />
                                         <div class="project-details d-flex justify-content-center flex-column pt-2">
                                             <div class="post-header">
-                                                <h2 class="post-title h3"><a href="javascrip:void(0)" class="link-dark">รสส้ม</a></h2>
+                                                <h2 class="post-title h3"><a href="javascrip:void(0)" class="link-dark">รสลิ้นจี่</a></h2>
                                             </div>
                                             <!-- /.post-header -->
                                         </div>
@@ -46,7 +46,7 @@ include_once 'header.php';
                                     <figure class="rounded"><img src="./assets/img/drink-5.jpg" alt="" />
                                         <div class="project-details d-flex justify-content-center flex-column pt-2">
                                             <div class="post-header">
-                                                <h2 class="post-title h3"><a href="javascrip:void(0)" class="link-dark">รสลิ้นจี่</a></h2>
+                                                <h2 class="post-title h3"><a href="javascrip:void(0)" class="link-dark">รสส้ม</a></h2>
                                             </div>
                                             <!-- /.post-header -->
                                         </div>
@@ -127,7 +127,7 @@ include_once 'header.php';
                     <div class="row">
                         <div class="col-lg-9 col-xl-8 col-xxl-7 mx-auto text-center">
                             <h2 class="fs-15 text-uppercase text-muted mb-3">Product</h2>
-                            <h3 class="display-4 mb-10">กาแฟลดความอ้วน</h3>
+                            <h3 class="display-4 mb-10">เครื่องดื่มชูกำลัง</h3>
                         </div>
                         <!-- /column -->
                     </div>
@@ -149,7 +149,7 @@ include_once 'header.php';
                     <div class="row">
                         <div class="col-lg-9 col-xl-8 col-xxl-7 mx-auto text-center">
                             <h2 class="fs-15 text-uppercase text-muted mb-3">Product</h2>
-                            <h3 class="display-4 mb-10">กาแฟลดความอ้วน</h3>
+                            <h3 class="display-4 mb-10">เครื่องดื่มรังนก</h3>
                         </div>
                         <!-- /column -->
                     </div>

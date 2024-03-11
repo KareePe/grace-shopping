@@ -9,8 +9,16 @@
             <div class="d-flex flex-row align-items-center me-6 ms-auto">
                 <p class="mb-0">Grace Shopping Mall Co.,Ltd.</p>
             </div>
-            <div class="d-flex flex-row align-items-center">
+            <div class="d-flex flex-row align-items-center" style="margin-right: 10px;">
                 <div class="icon text-white fs-22 mt-1 me-2"> <i class="uil uil-phone-volume"></i></div>
+                <p class="mb-0"><a href="tel:029660007" class="link-white hover">02-966-0007</a></p>
+            </div>
+            <div class="d-flex flex-row align-items-center" style="margin-right: 10px;">
+                <div class="icon text-white fs-22 mt-1 me-2"> <i class="uil uil-tablet"></i></div>
+                <p class="mb-0"><a href="tel:0651696969" class="link-white hover">065-169-6969</a></p>
+            </div>
+            <div class="d-flex flex-row align-items-center">
+                <div class="icon text-white fs-22 mt-1 me-2"> <i class="uil uil-tablet"></i></div>
                 <p class="mb-0"><a href="tel:0818716303" class="link-white hover">081-871-6303</a></p>
             </div>
         </div>
@@ -25,7 +33,7 @@
             </div>
             <div class="navbar-collapse offcanvas offcanvas-nav offcanvas-start">
                 <div class="offcanvas-header d-lg-none" style="z-index: 9999;position:relative;">
-                <img src="../images/grace-all.jpg" style="width:180px" alt="">
+                    <img src="../images/grace-all.jpg" style="width:180px" alt="">
                     <button type="button" class="btn-close btn-close-white" data-bs-dismiss="offcanvas" aria-label="Close"></button>
                 </div>
                 <div class="offcanvas-body ms-lg-auto d-flex flex-column h-100">
@@ -64,17 +72,10 @@
             </div>
             <!-- /.navbar-collapse -->
             <div class="navbar-other w-100 d-flex ms-auto">
-                <ul class="navbar-nav flex-row align-items-center ms-auto">
-                    <li class="nav-item dropdown language-select text-uppercase">
-                        <a class="nav-link dropdown-item dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">EN</a>
-                        <ul class="dropdown-menu">
-                            <li class="nav-item"><a class="dropdown-item" href="/">TH</a></li>
-                        </ul>
-                    </li>
-                    <li class="nav-item d-lg-none">
-                        <button class="hamburger offcanvas-nav-btn"><span></span></button>
-                    </li>
-                </ul>
+                <div class="lang flex-row align-items-center ms-auto">
+                    <a class="nav-link " href="/">TH</a>
+                    <a class="nav-link lang-current" href="javascript:void(0)">EN</a>
+                </div>
                 <!-- /.navbar-nav -->
             </div>
             <!-- /.navbar-other -->

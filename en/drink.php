@@ -35,7 +35,7 @@ include_once 'header.php';
                                     <figure class="rounded"><img src="../assets/img/drink-4.jpg" alt="" />
                                         <div class="project-details d-flex justify-content-center flex-column pt-2">
                                             <div class="post-header">
-                                                <h2 class="post-title h3"><a href="javascrip:void(0)" class="link-dark">Orange flavor</a></h2>
+                                                <h2 class="post-title h3"><a href="javascrip:void(0)" class="link-dark">Lychee flavor</a></h2>
                                             </div>
                                             <!-- /.post-header -->
                                         </div>
@@ -46,7 +46,7 @@ include_once 'header.php';
                                     <figure class="rounded"><img src="../assets/img/drink-5.jpg" alt="" />
                                         <div class="project-details d-flex justify-content-center flex-column pt-2">
                                             <div class="post-header">
-                                                <h2 class="post-title h3"><a href="javascrip:void(0)" class="link-dark">Lychee flavor</a></h2>
+                                                <h2 class="post-title h3"><a href="javascrip:void(0)" class="link-dark">Orange flavor</a></h2>
                                             </div>
                                             <!-- /.post-header -->
                                         </div>

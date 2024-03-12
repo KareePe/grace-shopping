@@ -142,7 +142,7 @@ include_once 'header.php';
                         <img src="./images/friut.jpg" style="width: 100%;" alt="" />
                         <div class="project-details d-flex justify-content-center flex-column pt-2">
                             <div class="post-header">
-                                <h2 class="post-title h3"><a href="javascrip:void(0)" class="link-dark">เครื่องดื่มผลไม้</a></h2>
+                                <h2 class="post-title h3"><a href="javascrip:void(0)" class="link-dark">เครื่องดื่มน้ำผลไม้</a></h2>
                             </div>
                             <!-- /.post-header -->
                         </div>

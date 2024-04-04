@@ -28,7 +28,11 @@ include_once 'header.php';
                         <div class="swiper-wrapper">
                             <div class="swiper-slide">
                                 <figure class="rounded">
-                                    <iframe style="width: 100%;height:350px;" src="https://www.youtube.com/embed/mDceW_YoCgw?si=0IVfGK-WuiY6FjN5&amp;controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                                    <video width="400" style="width: 100%;height:350px;" controls>
+                                        <source src="../images/video/1.mp4" type="video/mp4">
+                                        Your browser does not support HTML5 video.
+                                    </video>
+                                    <!-- <iframe style="width: 100%;height:350px;" src="https://www.youtube.com/embed/mDceW_YoCgw?si=0IVfGK-WuiY6FjN5&amp;controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> -->
                                 </figure>
                                 <div class="post-header">
                                     <h2 class="post-title h3"><a href="https://youtu.be/mDceW_YoCgw?si=livGzYn2Qb1AWasQ" target="_blank" class="link-dark">Advertisement for selling coffee roasting machines</a></h2>
@@ -37,7 +41,11 @@ include_once 'header.php';
                             <!--/.swiper-slide -->
                             <div class="swiper-slide">
                                 <figure class="rounded">
-                                    <iframe style="width: 100%;height:350px;" src="https://www.youtube.com/embed/nw81EoY-Q-0?si=Gfl4p_O0ODhjQOQ5&amp;controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                                    <video width="400" style="width: 100%;height:350px;" controls>
+                                        <source src="../images/video/2.mp4" type="video/mp4">
+                                        Your browser does not support HTML5 video.
+                                    </video>
+                                    <!-- <iframe style="width: 100%;height:350px;" src="https://www.youtube.com/embed/nw81EoY-Q-0?si=Gfl4p_O0ODhjQOQ5&amp;controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> -->
                                 </figure>
                                 <div class="post-header">
                                     <h2 class="post-title h3"><a href="https://youtu.be/nw81EoY-Q-0?si=6JRHP5v7S_Nivz-G" target="_blank" class="link-dark">How to use a coffee roaster</a></h2>
@@ -46,7 +54,11 @@ include_once 'header.php';
                             <!--/.swiper-slide -->
                             <div class="swiper-slide">
                                 <figure class="rounded">
-                                    <iframe style="width: 100%;height:350px;" src="https://www.youtube.com/embed/GJKecoJT6Gs?si=-4IfI2mqXy743Nxv&amp;controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                                    <video width="400" style="width: 100%;height:350px;" controls>
+                                        <source src="../images/video/3.mp4" type="video/mp4">
+                                        Your browser does not support HTML5 video.
+                                    </video>
+                                    <!-- <iframe style="width: 100%;height:350px;" src="https://www.youtube.com/embed/GJKecoJT6Gs?si=-4IfI2mqXy743Nxv&amp;controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> -->
                                 </figure>
                                 <div class="post-header">
                                     <h2 class="post-title h3"><a href="https://youtu.be/GJKecoJT6Gs?si=X-nh6hEv5bMCIiTz" target="_blank" class="link-dark">Methods and steps for cleaning a coffee roaster</a></h2>

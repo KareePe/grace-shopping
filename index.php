@@ -36,7 +36,7 @@ include_once 'header.php';
                         <div class="swiper-wrapper">
                             <div class="swiper-slide">
                                 <figure class="rounded">
-                                    <img src="./assets/img/drink-1.jpeg" alt="" />
+                                    <img src="./assets/img/drink-1.jpg" alt="" />
                                     <div class="project-details d-flex justify-content-center flex-column pt-2">
                                         <div class="post-header">
                                             <h2 class="post-title h3"><a href="javascrip:void(0)" class="link-dark">เครื่องคั่วกาแฟ</a></h2>
